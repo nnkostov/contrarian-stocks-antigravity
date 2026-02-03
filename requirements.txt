@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+yfinance
+pydantic
+requests
+google-generativeai
+python-dotenv
+sqlalchemy
